@@ -39,8 +39,6 @@
   <img src="https://img.shields.io/badge/Metasploit-ff3b3b?style=for-the-badge&logo=metasploit&logoColor=white">
   <img src="https://img.shields.io/badge/Wireshark-ff3b3b?style=for-the-badge&logo=wireshark&logoColor=white">
   <br><br>
-
-  
 </div>
 
 <br>
@@ -88,5 +86,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProfessorKerollos&hide_border=true&background=1c1c1c&stroke=ff3b3b&ring=ff3b3b&fire=ff3b3b&currStreakLabel=9e9e9e&currStreakNum=ffffff&sideLabels=9e9e9e&sideNums=ffffff&dates=9e9e9e" alt="GitHub Streak" width="48%">
   
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ProfessorKerollos&bg_color=1c1c1c&color=9e9e9e&line=ff3b3b&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="80%">
+  <img src="https://ghchart.rshah.org/ff3b3b/ProfessorKerollos" alt="Contribution Graph" width="80%">
 </div>
