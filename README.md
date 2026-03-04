@@ -84,9 +84,9 @@
 
 ### 📈 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProfessorKerollos&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ff3b3b&text_color=ffffff&icon_color=ff3b3b" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProfessorKerollos&hide_border=true&background=0d0d0d&stroke=ff3b3b&ring=ff3b3b&fire=ff3b3b&currStreakLabel=ff3b3b" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=ProfessorKerollos&show_icons=true&hide_border=true&bg_color=1c1c1c&title_color=ffffff&text_color=9e9e9e&icon_color=ff3b3b" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProfessorKerollos&hide_border=true&background=1c1c1c&stroke=ff3b3b&ring=ff3b3b&fire=ff3b3b&currStreakLabel=9e9e9e&currStreakNum=ffffff&sideLabels=9e9e9e&sideNums=ffffff&dates=9e9e9e" alt="GitHub Streak" width="48%">
   
   <br><br>
-  <img src="https://ghchart.rshah.org/ff3b3b/ProfessorKerollos" alt="Contribution Graph" width="80%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ProfessorKerollos&bg_color=1c1c1c&color=9e9e9e&line=ff3b3b&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="80%">
 </div>
