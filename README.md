@@ -1,6 +1,7 @@
 <div align="center">
-  
-  <h1>Kerollos Atnass | <span style="color: #ff3b3b;">Professor Owl </span></h1>
+
+<img src="image.png" style="height: 300px;">
+<h1>Kerollos Atnass | <span style="color: #ff3b3b;">Professor Owl </span></h1>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ff3b3b&center=true&vCenter=true&width=600&lines=Penetration+Tester;Bug+Bounty+Hunter;CTF+Player" alt="Typing SVG" />
