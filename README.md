@@ -21,6 +21,47 @@
 
 <br>
 
+<br>
+<h3> 👨‍💻 About Me </h3>
+<div align="center" width="80%">
+
+Cybersecurity Enthusiast and Penetration Tester based in Egypt 🇪🇬  
+
+I specialize in Web Application Security, Vulnerability Assessment, and Bug Bounty Hunting.  
+My focus is on identifying real-world security flaws, understanding their root causes, and developing practical remediation strategies.
+
+I actively participate in CTF competitions and security platforms to continuously sharpen my offensive security skills.
+
+</div>
+
+---
+
+### 🎓 Certifications & Training
+<div align="center">
+
+<img src="https://img.shields.io/badge/CEH-Completed-0d0d0d?style=for-the-badge&logo=hackaday&logoColor=ff3b3b">
+<img src="https://img.shields.io/badge/Security+-Completed-0d0d0d?style=for-the-badge&logo=comptia&logoColor=ff3b3b">
+<img src="https://img.shields.io/badge/Network+-Completed-0d0d0d?style=for-the-badge&logo=comptia&logoColor=ff3b3b">
+<br>
+<img src="https://img.shields.io/badge/CCNA-In_Progress-0d0d0d?style=for-the-badge&logo=cisco&logoColor=ff3b3b">
+<img src="https://img.shields.io/badge/eJPT-In_Progress-0d0d0d?style=for-the-badge&logo=ine&logoColor=ff3b3b">
+
+</div>
+
+### ⚔️ Core Skills
+<div align="center">
+
+| 🕵️ Offensive Security | 🌐 Web Security | 🛠️ Technical Skills |
+|------------------------|----------------|----------------------|
+| Recon & Enumeration | XSS | Python Scripting |
+| Exploitation Basics | SQL Injection | Bash Automation |
+| Privilege Escalation | CSRF | Linux Administration |
+| CTF Problem Solving | Authentication Bypass | Networking Fundamentals |
+
+</div>
+
+<br>
+
 ### 🛡️ Arsenal & Tech Stack
 <div align="center">
   <p><strong>Programming & Development</strong></p>
