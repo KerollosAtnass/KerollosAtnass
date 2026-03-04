@@ -23,6 +23,11 @@
 
 ### 🛡️ Arsenal & Tech Stack
 <div align="center">
+  <p><strong>Programming & Development</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,html,css&theme=dark" />
+  </a>
+    <br><br>
   <p><strong>Operating Systems & Security Tools</strong></p>
   <img src="https://img.shields.io/badge/BlackArch_Linux-000000?style=for-the-badge&logo=archlinux&logoColor=cc0000">
   <a href="https://skillicons.dev">
@@ -35,10 +40,7 @@
   <img src="https://img.shields.io/badge/Wireshark-ff3b3b?style=for-the-badge&logo=wireshark&logoColor=white">
   <br><br>
 
-  <p><strong>Programming & Development</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,html,css&theme=dark" />
-  </a>
+  
 </div>
 
 <br>
