@@ -117,8 +117,8 @@ Based in Egypt 🇪🇬
 ## 🏆 Platforms
 
 <div align="center">
-  <a href="https://tryhackme.com/p/KerolosAtnass"><img src="https://img.shields.io/badge/TryHackMe-KerollosAtnass-0d0d0d?style=for-the-badge&logo=tryhackme&logoColor=ff3b3b"></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackTheBox-Active_Player-0d0d0d?style=for-the-badge&logo=hackthebox&logoColor=ff3b3b"></a>
+  <a href="https://tryhackme.com/p/ProfessorOwl"><img src="https://img.shields.io/badge/TryHackMe-ProfessorOwl-0d0d0d?style=for-the-badge&logo=tryhackme&logoColor=ff3b3b"></a>
+  <a href="https://profile.hackthebox.com/profile/019cd7d4-d46f-71f7-b3b4-232363b72abb"><img src="https://img.shields.io/badge/HackTheBox-ProfessorOwl-0d0d0d?style=for-the-badge&logo=hackthebox&logoColor=ff3b3b"></a>
   <a href="#"><img src="https://img.shields.io/badge/Bug_Bounty-OWASP_%7C_Recon_%7C_OSINT-0d0d0d?style=for-the-badge&logo=bugcrowd&logoColor=ff3b3b"></a>
 </div>
 
