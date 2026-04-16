@@ -10,15 +10,15 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ProfessorKerollos&color=ff3b3b&style=for-the-badge&base=21051&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=KerollosAtnass&color=ff3b3b&style=for-the-badge&base=21051&label=PROFILE+VIEWS" />
 
 <br><br>
 
   <p>
-    <a href="https://www.linkedin.com/in/kerollos-atnass/"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=ff3b3b"></a>
-    <a href="https://github.com/ProfessorKerollos"><img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ff3b3b"></a>
-    <a href="https://x.com/kerollos_atnass"><img src="https://img.shields.io/badge/X-0d0d0d?style=for-the-badge&logo=x&logoColor=ff3b3b"></a>
-    <a href="https://www.facebook.com/kerollos.atnass"><img src="https://img.shields.io/badge/Facebook-0d0d0d?style=for-the-badge&logo=facebook&logoColor=ff3b3b"></a>
+    <a href="https://www.linkedin.com/in/KerollosAtnass/"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=ff3b3b"></a>
+    <a href="https://github.com/KerollosAtnass"><img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ff3b3b"></a>
+    <a href="https://x.com/KerollosAtnass"><img src="https://img.shields.io/badge/X-0d0d0d?style=for-the-badge&logo=x&logoColor=ff3b3b"></a>
+    <a href="https://www.facebook.com/KerollosAtnass"><img src="https://img.shields.io/badge/Facebook-0d0d0d?style=for-the-badge&logo=facebook&logoColor=ff3b3b"></a>
     <a href="mailto:kerollosatnass@gmail.com"><img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ff3b3b"></a>
   </p>
 
@@ -132,6 +132,6 @@ Based in Egypt 🇪🇬
 
 <br><br>
 
-<img src="https://ghchart.rshah.org/ff3b3b/ProfessorKerollos" width="85%">
+<img src="https://ghchart.rshah.org/ff3b3b/KerollosAtnass" width="85%">
 
 </div>
