@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="image(1).png" style="height: 260px;">
+<img src="ProfessorOwl_KerollosAtnass_logo.png" style="height: 260px;">
 
 <h1>Kerollos Atnass | <span style="color: #ff3b3b;">Professor Owl</span></h1>
 
